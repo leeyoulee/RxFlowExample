@@ -1,0 +1,80 @@
+PODS:
+  - Alamofire (4.9.1)
+  - KeychainSwift (19.0.0)
+  - Moya/Core (13.0.1):
+    - Alamofire (~> 4.1)
+    - Result (~> 4.1)
+  - Moya/RxSwift (13.0.1):
+    - Moya/Core
+    - RxSwift (~> 4.0)
+  - Result (4.1.0)
+  - Reusable (4.1.0):
+    - Reusable/Storyboard (= 4.1.0)
+    - Reusable/View (= 4.1.0)
+  - Reusable/Storyboard (4.1.0)
+  - Reusable/View (4.1.0)
+  - RxCocoa (4.5.0):
+    - RxSwift (>= 4.4.2, ~> 4.4)
+  - RxFlow (2.2.0):
+    - RxCocoa (>= 4.5.0)
+    - RxSwift (>= 4.5.0)
+  - RxOptional (3.6.2):
+    - RxCocoa (~> 4.0)
+    - RxSwift (~> 4.0)
+  - RxSwift (4.5.0)
+  - RxSwiftExt (3.4.0):
+    - RxSwiftExt/Core (= 3.4.0)
+    - RxSwiftExt/RxCocoa (= 3.4.0)
+  - RxSwiftExt/Core (3.4.0):
+    - RxSwift (~> 4.0)
+  - RxSwiftExt/RxCocoa (3.4.0):
+    - RxCocoa (~> 4.0)
+    - RxSwiftExt/Core
+  - SnapKit (5.0.1)
+  - SwiftLint (0.39.1)
+
+DEPENDENCIES:
+  - Alamofire (~> 4.8)
+  - KeychainSwift
+  - Moya/RxSwift (~> 13.0)
+  - Reusable
+  - RxCocoa (~> 4.0)
+  - RxFlow
+  - RxOptional
+  - RxSwift (~> 4.0)
+  - RxSwiftExt
+  - SnapKit
+  - SwiftLint
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - KeychainSwift
+    - Moya
+    - Result
+    - Reusable
+    - RxCocoa
+    - RxFlow
+    - RxOptional
+    - RxSwift
+    - RxSwiftExt
+    - SnapKit
+    - SwiftLint
+
+SPEC CHECKSUMS:
+  Alamofire: 85e8a02c69d6020a0d734f6054870d7ecb75cf18
+  KeychainSwift: a06190cf933ad46b1e0abc3d77d29c06331715c7
+  Moya: f4a4b80ff2f8a4ffc208dfb31cd91636622fee6e
+  Result: bd966fac789cc6c1563440b348ab2598cc24d5c7
+  Reusable: 82be188f29d96dc5eff0db7b2393bcc08d2cdd5b
+  RxCocoa: cbf70265dc65a981d4ac982e513c10cf23df24a0
+  RxFlow: f8cdfc0be3c837464fad1fcd28187fd414bcc716
+  RxOptional: 80426a0ddbd092573e4c482d8cc13302078c4d5e
+  RxSwift: f172070dfd1a93d70a9ab97a5a01166206e1c575
+  RxSwiftExt: 01f8ecbeeb355698e9c75365ebe908b00dacf45d
+  SnapKit: 97b92857e3df3a0c71833cce143274bf6ef8e5eb
+  SwiftLint: 55e96a4a4d537d4a3156859fc1c54bd24851a046
+
+PODFILE CHECKSUM: 74905da9d8fab27a724694b854050603a2a2b6ac
+
+COCOAPODS: 1.8.4
